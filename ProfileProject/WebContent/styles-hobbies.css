@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+body
+{
+	background-color: #02E7D9
+}
+
+img
+{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  border: 10px solid #EBEFE9;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: #EBEFE9;
+	
+}
